@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+*{
+  box-sizing: border-box;
+  /*! check defination on GPT */
+}
+
+body{
+  padding: 50px;
+}
